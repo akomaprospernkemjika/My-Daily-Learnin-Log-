@@ -16,3 +16,13 @@ informed, data-driven decisions in every area of life and work.
   what activities count as contributions
 
 ---
+### June 14, 2026
+- Continued FMCG data analysis on Meridian Consumer Goods Nigeria Ltd dataset
+- Completed Regional Analysis, Overall Performance, and Revenue by Channels
+  using pivot tables in Excel
+- Building analytical thinking by learning percentage points vs percentage 
+  change and how to solve them mentally without a calculator
+- Beginning of a new week — praying this week brings growth and better 
+  opportunities 🙏
+
+---
