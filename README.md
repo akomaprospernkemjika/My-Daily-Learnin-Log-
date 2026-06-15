@@ -26,3 +26,13 @@ informed, data-driven decisions in every area of life and work.
   opportunities 🙏
 
 ---
+
+## June 15, 2026
+- Continued FMCG data analysis on Meridian Consumer Goods Nigeria Ltd dataset
+- Tackled Sales Rep Analysis but hit some difficulties mid-way — will continue 
+  and push through today
+- Still grinding numerical reasoning and problem solving daily — not the most 
+  exciting process but the commitment is there and that's what matters
+- You don't always have to enjoy the process, you just have to keep showing up 🐢
+
+---
