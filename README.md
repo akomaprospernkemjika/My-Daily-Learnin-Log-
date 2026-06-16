@@ -36,3 +36,16 @@ informed, data-driven decisions in every area of life and work.
 - You don't always have to enjoy the process, you just have to keep showing up 🐢
 
 ---
+
+## June 16, 2026
+- Pushed past the Sales Rep Analysis difficulty from yesterday — completed it! ✅
+- Currently running Seasonal Trend Analysis on the Meridian Consumer Goods 
+  Nigeria Ltd dataset
+- This project genuinely mirrors how businesses operate day-to-day in Nigeria's 
+  FMCG sector — and that real-world relevance makes the work meaningful
+- Independently figured out how salary increases and bonuses are calculated 
+  the way it is actually done in real workplaces — no guidance, just reasoning 
+  it through myself
+- Analytical thinking is not just a skill, it is becoming a habit 🐢
+
+---
