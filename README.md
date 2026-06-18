@@ -82,4 +82,5 @@ informed, data-driven decisions in every area of life and work.
 - Received an exam invitation in Lagos — travelling tomorrow to attend
 - One mile at a time, I will definitely get there 🐢
  Before I sleep, - June 18 2025: Learned GitHub branching and Pull Request workflow!
+And - June 18 2025: Studied percentage change vs percentage point distinction for St**** aptitude test
 ---
