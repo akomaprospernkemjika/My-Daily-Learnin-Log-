@@ -61,3 +61,25 @@ informed, data-driven decisions in every area of life and work.
   is what separates a data analyst from a great one 🐢
 
 ---
+
+## June 18, 2026
+- Learnt more about Power BI — building polished charts and calculating key 
+  metrics for clearer business storytelling
+- Successfully completed Sales Rep Analysis and Highest Customer (Pareto) 
+  Analysis on the Meridian Consumer Goods dataset ✅
+- Moving next to analysing how discounts affected market performance
+- Received an exam invitation in Lagos — travelling tomorrow to attend
+- One mile at a time, I will definitely get there 🐢
+
+---
+
+## June 18, 2026
+- Learnt more about Power BI — building polished charts and calculating key 
+  metrics for clearer business storytelling
+- Successfully completed Sales Rep Analysis and Highest Customer (Pareto) 
+  Analysis on the Meridian Consumer Goods dataset ✅
+- Moving next to analysing how discounts affected market performance
+- Received an exam invitation in Lagos — travelling tomorrow to attend
+- One mile at a time, I will definitely get there 🐢
+
+---
