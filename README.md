@@ -84,3 +84,14 @@ informed, data-driven decisions in every area of life and work.
  Before I sleep, - June 18 2025: Learned GitHub branching and Pull Request workflow!
 And - June 18 2025: Studied percentage change vs percentage point distinction for St**** aptitude test
 ---
+
+## June 19, 2026
+- Attempted to earn the GitHub Pull Shark and Pair Extraordinaire badges — 
+  wasn't successful this time, but progress isn't always linear, so I keep moving
+- Learnt about ratios and how to use a part to determine the whole — sharpening 
+  my numerical reasoning toolkit
+- Preparing for an upcoming aptitude test, which means a change in location to 
+  attend it
+- A true analyst is built daily, through consistent actions and decisions 🐢
+
+---
