@@ -108,3 +108,4 @@ And - June 18 2025: Studied percentage change vs percentage point distinction fo
 
 ---
 - Set up GitHub Discussions on world-development-indicators-analysis repo
+- - June 18 2025: Practiced sequential and compounding percentage problems for aptitude test
