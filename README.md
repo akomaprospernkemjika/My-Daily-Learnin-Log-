@@ -96,3 +96,15 @@ And - June 18 2025: Studied percentage change vs percentage point distinction fo
 
 ---
 - Reviewed and contributed to daily learning log entries
+
+- ## June 20, 2026
+- Focused on perfecting numerical reasoning skills by solving multiple practice 
+  problems
+- Ongoing projects are a bit paused right now since all energy is going into 
+  exam preparation — feeling a little stuck, but that's normal before a big test
+- Wishing myself success — once the exam is done, full momentum resumes on 
+  all fronts
+- Sometimes the tortoise pauses to breathe, but it never stops walking 🐢
+
+---
+
