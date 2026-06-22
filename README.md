@@ -109,3 +109,15 @@ And - June 18 2025: Studied percentage change vs percentage point distinction fo
 ---
 - Set up GitHub Discussions on world-development-indicators-analysis repo
 - - June 18 2025: Practiced sequential and compounding percentage problems for aptitude test
+
+## June 22, 2026
+- Couldn't update the log yesterday — was deep in final preparation for the 
+  Stransact aptitude test
+- Today is test day — heading in to write the Stransact aptitude test
+- Spent the lead-up sharpening numerical and verbal reasoning, and also got 
+  some practice in on logical and critical reasoning
+- By the end of today, hoping to resume the Meridian Consumer Goods analytical 
+  project and pick momentum back up
+- One test at a time, one mile at a time 🐢
+
+---
