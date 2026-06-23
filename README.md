@@ -124,3 +124,4 @@ And - June 18 2025: Studied percentage change vs percentage point distinction fo
 ## June 23, 2026
 Been busy after my test...
 First it was a bootcamp, just for the certificate and now it is way beyond that cos I am really in to make sure I worth every bit of session that is involved in it
+-Here already making every diffrence in my life. Don't know where this leads, but obviously in the next few months my life ain't gon' be the same again!
